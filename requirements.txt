@@ -1,0 +1,7 @@
+fastmcp
+mcp
+asyncio
+ollama
+langchain_mcp_adapters
+langgraph
+langchain_ollama
